@@ -2,7 +2,7 @@
 ## Task Overview
 
 - **Goal:** Spot and remove potentially harmful browser extensions.
-- **Tools Used:** Microsoft Edge (steps also apply to Chrome/Firefox).
+- **Tools Used:** Chrome.
 
 ---
 
