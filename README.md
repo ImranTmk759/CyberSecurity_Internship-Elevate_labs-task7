@@ -38,23 +38,6 @@
 | **IDM Integration Module**      | Download management                   | Extensive (downloads, data, apps) | Safe if official        | Kept             |
 | **Keepa - Amazon Price Tracker**| Tracks Amazon price history           | No special permissions            | Safe                    | Kept             |
 
----
-
-## Most Commonly Used Extensions Considered Unsafe
-
-Even popular browser extensions can be unsafe due to privacy violations, malware, or malicious updates. Here are some widely used extensions that have been flagged as risky:
-
-| Extension Name                      | Risk/Behavior                                                                 | 
-|--------------------------------------|------------------------------------------------------------------------------|
-| **Autoskip for YouTube**             | Injects adware links, tracks user actions; 9+ million downloads              |
-| **Netflix Party / Netflix Party 2**  | Tracks browsing, injects affiliate links, privacy violations                  | 
-| **Full Page Screenshot Capture**     | Tracks user data, manipulates cookies, over 200,000 downloads                |
-| **friGate Light / friGate CDN**      | Contains malware, accesses sensitive data, redirects to malicious sites       | 
-| **SaveFrom.Net**                     | Collects and leaks user data (IP, browsing behavior)                         | 
-| **SHARPEXT**                         | Email spyware, steals credentials and monitors user behavior                  | 
-| **Hola VPN**                         | Security breaches, tracks user behavior, leaves traffic unencrypted          |
-
----
 
 ## How Malicious Extensions Harm Users
 
